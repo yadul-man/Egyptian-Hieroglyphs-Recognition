@@ -1,3 +1,4 @@
+// The model is able to recognize the words : bull, pregnant, bread, chair, cook, destroy, fly, house, pray, rain
 let shapeClassifier;
 let canvas;
 let resultsDiv;
