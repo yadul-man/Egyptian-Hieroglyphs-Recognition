@@ -1,0 +1,46 @@
+html, body {
+/*   background-color: #943D24; */
+  color: #FFFFFF;
+  font-size: 32pt;
+  text-align: center;
+  background-image: url("triangle-background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+canvas {
+  display: block;
+  position: absolute;
+  left: 40%;
+  top: 62%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  height: 50%;
+  padding: 20px; 
+  text-align: center;
+}
+
+button {
+  border-radius: 8px;
+/*   background-color: #2D2D2D;  */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+/*   display: inline-block; */
+  font-size: 22px;
+  font-family: 'Copperplate';
+}
+
+input[type=text] {
+  font-size: 35px;
+  font-family: 'Garamond';
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+@font-face {
+  font-family: SanMarinoBeach;
+  src: url('fonts/SanMarinoBeach.otf');
+}
