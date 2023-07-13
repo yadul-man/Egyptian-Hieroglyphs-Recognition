@@ -38,6 +38,16 @@ Our recognition system is an application that allows users to input hieroglyphic
   </li>
 </ul>
 
+### Steps to run the training code
+```
+MAKE SURE ALL THE DIRECTORIES IN THE CODE ARE POINTING TO THE RIGHT LOCATION
+1. Install node.js
+2. Open the folder containing the training code in command prompt
+3. Run command "npm install http-server"
+4. Run command "http-server"
+5. The default browser will automatically open with the details of the training process
+6. Check the console for any messages/output
+```
 ### Programming languages / Libraries used
 <ul>
   <li>
