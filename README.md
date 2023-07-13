@@ -62,3 +62,7 @@ Our recognition system is an application that allows users to input hieroglyphic
 
 ### Output
 <img src="output/Screenshot (91).png">
+<img src="output/Screenshot (67).png">
+<img src="output/Screenshot (66).png">
+<img src="output/Screenshot (71).png">
+<img src="output/Screenshot (72).png">
