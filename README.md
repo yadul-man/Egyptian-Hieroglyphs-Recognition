@@ -59,3 +59,6 @@ Our recognition system is an application that allows users to input hieroglyphic
     ml5.js
   </li>
 </ul>
+
+### Output
+<img src="output/Screenshot (91).png">
