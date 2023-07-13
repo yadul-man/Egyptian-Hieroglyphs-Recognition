@@ -4,6 +4,9 @@
 Our recognition system is an 
 application that allows users to input hieroglyphic characters, either through text, doodles, or through video and get the corresponding translation of the character. The application is designed for people who are interested in learning the ancient Egyptian language or scholars who are studying ancient Egyptian texts. The system consists of an English-to-hieroglyphs converter, a hieroglyphic doodle recognizer, and a hieroglyphic word recognizer. 
 
+### Project link
+<a href="https://egyptian-hieroglyphs-recognition.yadulmanoj.repl.co/">Egyptian Hieroglyphs Recognition</a>
+
 ### Project components
 <ul>
   <li>
