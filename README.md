@@ -1,1 +1,1 @@
-# Egyptian Hieroglyph Recognition
+# Egyptian Hieroglyphs Recognition
